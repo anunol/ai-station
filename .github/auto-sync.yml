@@ -1,4 +1,4 @@
-name: 自动同步上游分支
+name: Auto Sync
 
 permissions:
   contents: write
